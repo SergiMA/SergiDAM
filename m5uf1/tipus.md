@@ -1,7 +1,7 @@
 #1. Desenvolupament de programari ('software')
 ##1.3. Tipus de llenguatges de programació
 
-Establert el concepte de progrmaa informàtic i els conceptes de codi font, el codi objecte i codi executable (així com el de màquina virtual), cal ara establir les diferències entre els diversos tipus de codi font existents, a través dels quals s'arriba a obtenir un programa informàtic.
+Establert el concepte de programa informàtic i els conceptes de codi font, el codi objecte i codi executable (així com el de màquina virtual), cal ara establir les diferències entre els diversos tipus de codi font existents, a través dels quals s'arriba a obtenir un programa informàtic.
 
 > Un **llenguatge de programació** és un llenguatge que permet establir una comunicació entre l'home i la màquina. El llenguatge de programació identificarà el codi font, que el programador desenvoluparà per indicar a la màquina, una vegada aquest codi s'hagi convertit en codi executable, quins passos ha de donar.
 
@@ -17,9 +17,6 @@ Els diferents tipus de llenguatges són:
 > El primer tipus de llenguatge que es va desenvolupar és l'anomenat **llenguatge de primera generació o llenguatge de màquina**. És l'únic llenguatge que entén l'ordinador directament.
 
 La seva estructura està totalment adaptada als cricuits impresos dels ordinadors o processadors electrònics i molt allunyada de la forma d'expressió i anàlisi dels problemes propis dels humans (les instruccions s'expressen en codi binari). Això fa que la programació en aquest llenguatge resulti tediosa i complicada, ja que es requereix un coneixement profund de l'arquetectura física de l'ordinador. A més, s'ha de valorar que el codi màquina fa possible que el programador utilitzi la totalitat de recursos del maquinari, amb la qual cosa es poden obtenir programes molt eficients.
-
-> 10110000 01100001
-Aquesta línia conté una instrucció que mou un valor al registre del processador.
 
 Actualment, a causa de la complexitat del desenvolupament d'aquest tipus de llenguatge, està prpàcticament en desús. Només es farà servir en processadors molt concrets  o per a funcionalitats molt específiques.
 
@@ -68,7 +65,7 @@ Alguns exemples de codis de programació que hauran de passar per un intèrpret 
 * El codi interpretat no és executat directament pel sistema operatiu, sinó que fa ús d'un intèrpret.
 * Cada sistema té el seu propi intèrpret.
 
-#### Compiladros davant intèrprets
+#### Compiladors davant intèrprets
 L'intèrpret és notablement més lent que el compilador, ja que du a terme la traducció alhora que l'execució. A més, aquesta traducció es fa sempre que s'executa el programa, mentre que el compilador només la du a terme una vegada. L'avantatge dels intèrprets és que fan que els programes siguin més portables. Així, un programa compilat en un ordinador amb sistema operatiu Windows no funcionarà en un Macintosh, o en un ordinador amb un sistema operatiu Linux, a menys que es torni a compilar el programa font en el nou sistema.
 
 ### 1.3.2. Caracterísitiques dels llenguatges de tercera, quarta i cinquena generació
