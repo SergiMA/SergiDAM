@@ -7,6 +7,4 @@
  4. Paradigmes de programació
  5. Característiques dels llenguatges més difosos.
  6. Fases del desenvolupament d'una aplicació: anàlisi, disseny, codificació, proves, documentació, manteniment i explotació, entre d'altres.
- 7. Procés d'obtenció de codi executable a aprtir del codi font; eines implicades.
-  1. Tercer nivell de llista
-   1. Quart nivell de llista 
+ 7. Procés d'obtenció de codi executable a apartir del codi font; eines implicades.
