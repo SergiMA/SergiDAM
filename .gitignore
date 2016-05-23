@@ -1,2 +1,5 @@
 # Fitxers de compilació
 *.class
+
+# Fitxers de imatges
+*.gif
